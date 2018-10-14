@@ -17,3 +17,9 @@ DeepLearning Samples
     Image clasification by Convolutional Neural Networks (CNN) project. This is one of
     Udacity Deep Learning project. Using Resnet50 for a transfer learning, Dog breeds were
     detected by CNN.
+
+- [rnn](https://github.com/yokolet/DeepLearning/blob/master/rnn)
+
+    NLP by Recurrent Neural Networks (RNN) project. This is also one of Udacity Deep
+    Learning project. Dataset is Simpsons' TV script. RNN model was trained using TV
+    script, then, TV script was generated.
